@@ -2,7 +2,7 @@
 
 # Skill  Based Job Recommender Application
  We are reccomend the job based on their SKILLS
- # Category:Cloud Development
+ # Category:Cloud APP Development
  # TEAM ID
  PNT2022TMID22144
  # TEAM MEMBERS
