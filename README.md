@@ -8,4 +8,4 @@ Team Members
 1. Niranjana M
 2. Haritha Vellam T
 3. Juneha Jabeen A
-$. Krishikha R
+4. Krishikha R
