@@ -1,7 +1,6 @@
 # IBM-Project-5328-1658757900
 
 # Skill  Based Job Recommender Application
-![WhatsApp Image 2022-11-19 at 22 19 33](https://user-images.githubusercontent.com/113250205/202862567-cb590df5-5ad3-4068-8331-509e42294aa5.jpg)
 
  We are reccomend the job based on their SKILLS
  # Category:Cloud APP Development
@@ -13,3 +12,9 @@
  3. JUNEHA JABEEN A
  4. KRISHIKHA R
  
+ 
+![image 1](https://user-images.githubusercontent.com/113250205/202863059-3a9727db-9eda-4aa1-9470-67737178ab43.jpg)
+
+![image 2](https://user-images.githubusercontent.com/113250205/202863078-6786ad5b-a8c2-46d4-af7d-3e8910269044.jpg)
+
+![chatbot](https://user-images.githubusercontent.com/113250205/202863088-d2a53444-e7ee-4651-a0d3-80b775dcdd9a.jpg)
