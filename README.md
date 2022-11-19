@@ -2,9 +2,9 @@
 
 # Skill  Based Job Recommender Application
 ![image 5](https://user-images.githubusercontent.com/113250205/202863614-0b614b91-9484-4d43-b3c5-781a73e37df4.jpg)
+  Having lots of skills but wondering which job will best suit you? Don’t need to worry! We have come up with a skill recommender solution through which the fresher or the skilled person can log in and find the jobs by using the search option or they can directly interact with the chatbot and get their dream job.
 
-
- We are reccomend the job based on their SKILLS
+ 
  # Category:Cloud APP Development
  # TEAM ID
  PNT2022TMID22144
